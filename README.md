@@ -35,7 +35,7 @@
 
 ###
 
-<p data-importer="text" align="left">👋 I'm Andrés Ruz, a Full Stack Software Developer from Barranquilla, Colombia — with my roots firmly planted in the backend.<br><br>- 🔭 I'm working as a **Full Stack Developer**, architecting robust systems where the backend does the heavy lifting.<br><br>- 📚 I'm currently deepening my expertise in Java and taking my first real steps into Data Science.<br><br>- ⚡ In my free time, I'm either leveling up through courses or staying sharp on the field with sports.</p>
+<p data-importer="text" align="left">👋 I'm Andrés Ruz, a Full Stack Software Developer from Barranquilla, Colombia — with my roots firmly planted in the backend.<br><br>- 🔭 I'm working as a <b>Full Stack Developer</b>, architecting robust systems where the backend does the heavy lifting.<br><br>- 📚 I'm currently deepening my expertise in Java and taking my first real steps into Data Science.<br><br>- ⚡ In my free time, I'm either leveling up through courses or staying sharp on the field with sports.</p>
 
 ###
 
@@ -102,17 +102,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/AndresRuzTeran/AndresRuzTeran/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresRuzTeran&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AndresRuzTeran&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=9&date_format=M%20j%5B,%20Y%5D&order=3" height="227" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/AndresRuzTeran/AndresRuzTeran/activity-graph-output/activity-graph.svg?theme=minimal&area=true&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresRuzTeran&theme=minimal&area=true&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="150" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndresRuzTeran/AndresRuzTeran/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndresRuzTeran/AndresRuzTeran/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndresRuzTeran/AndresRuzTeran/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
 
 ###
