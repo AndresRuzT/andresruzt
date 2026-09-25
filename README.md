@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="418" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRscDB2Z2lmaDF0ZTIzeDkxamgwdXdkbm9sdzZkYjVlbTg4bnozYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+  <img data-importer="image" height="1418" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRscDB2Z2lmaDF0ZTIzeDkxamgwdXdkbm9sdzZkYjVlbTg4bnozYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 </div>
 
 ###
@@ -102,9 +102,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresRuzTeran&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AndresRuzTeran&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=9&date_format=M%20j%5B,%20Y%5D&order=3" height="227" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresRuzTeran&theme=minimal&area=true&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
