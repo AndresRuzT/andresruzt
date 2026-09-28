@@ -102,7 +102,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=AndresRuzTeran&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=9&date_format=M%20j%5B,%20Y%5D&order=3" height="227" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AndresRuzT&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=9&date_format=M%20j%5B,%20Y%5D&order=3" height="227" alt="streak graph"  />
 </div>
 
 ###
